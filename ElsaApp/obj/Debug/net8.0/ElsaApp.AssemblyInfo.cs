@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ElsaApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d03254cf011953d69f99e44e344a2e9f31f4ac4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElsaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElsaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
