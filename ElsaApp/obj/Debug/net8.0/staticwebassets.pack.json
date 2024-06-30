@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/quocbao/Documents/GitHub/net8-elsa/ElsaApp/obj/Debug/net8.0/scopedcss/projectbundle/ElsaApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/ElsaApp.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/quocbao/Documents/GitHub/net8-elsa/ElsaApp/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/quocbao/Documents/GitHub/net8-elsa/ElsaApp/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/quocbao/Documents/GitHub/net8-elsa/ElsaApp/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/quocbao/Documents/GitHub/net8-elsa/ElsaApp/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ElsaApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ElsaApp.props",
+      "PackagePath": "build\\ElsaApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ElsaApp.props",
+      "PackagePath": "buildMultiTargeting\\ElsaApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ElsaApp.props",
+      "PackagePath": "buildTransitive\\ElsaApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
