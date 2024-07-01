@@ -59,9 +59,14 @@ Explain how data flows through the system from when a user joins a quiz to when 
 
 #### Clean Architecture & Domain Driven Design 
 
-> General overview diagram 
-![clean](https://blog.ndepend.com/wp-content/uploads/Clean-Architecture-Diagram-Asp-Net.png)
+![alt text](image-4.png)
 
+Advantages 
+1.Independent of Frameworks.
+2.Testable.
+3.Independent of UI.
+4.Independent of Database.
+5.Independent of any external agency
 ##### Entities:
 ![alt text](image.png)
 
