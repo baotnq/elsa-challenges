@@ -18,7 +18,7 @@ public class UserQuiz : BaseEntity {
     return 0;
   }
 
-  public bool CheckAnswer(Question question, IList<Answer> answers) {
+  public bool CheckAnswer(Question question, Answer answers) {
     if (Quiz.Questions.Any(q => q.Id == question.Id)) {
      // var userAnswer = this.allRepositor
       var answer = this.allRepository.TriggerUserAnswer(this.User, question, answers); 
@@ -29,7 +29,12 @@ public class UserQuiz : BaseEntity {
         UserAnswers.Add(answer); 
       }
       return answer.isCorrect;
+    }else {
+      throw new Exception("No question in this Quiz"); 
     }
-    return false; 
+  }
+
+  public void CompleteQuiz() {
+    this.Status = "SUBMITED";
   }
 }
