@@ -37,7 +37,4 @@ public class UserQuizService : IUserQuizService
     private IQuizService quizService;
     private IAllRepository allRepository;
 
-    public UserQuizService(IAllRepository allRepository) {
-      this.allRepository = allRepository;
-    }
-}
+    publ

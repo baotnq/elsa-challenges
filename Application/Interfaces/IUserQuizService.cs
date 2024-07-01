@@ -8,4 +8,5 @@ public interface IUserQuizService
 
     public UserQuiz JoinQuiz(User user, Quiz quiz); 
     public bool SubmitAnswer(UserQuiz userQuiz, Question question, Answer answers);
-    p
+    public int ScoreUpdate(int userQuizId);
+}

@@ -1,3 +1,7 @@
+## Requiremenet
+> https://github.com/elsa/coding-challenges/blob/main/README.md
+
+- time to do: 3-5 days
 ## Summary about this Challenge
 
 Work load: 
