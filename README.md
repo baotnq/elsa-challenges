@@ -1,4 +1,14 @@
-## Sumary 
+## Summary about this Challenge
+
+Work load: 
+- Analytics and Thinking: 1h
+- Coding: 4h
+- Write Diagram and report: 2h 
+
+Missing on Coding: 
+- Unit Test for application
+- Refactor 
+- Implement the Infrastrure 
 
 ## Part 1: System Design
 
